@@ -1,7 +1,7 @@
 // Write your imports here if needed
 import java.util.Scanner;
 
-public class Exercise {
+public class Chapter6P3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
